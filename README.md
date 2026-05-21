@@ -17,7 +17,6 @@ orcarice/
 │   └── hetzner/
 ├── dotfiles/
 │   ├── sway/
-│   ├── waybar/          # TODO
 │   ├── i3status-rust/
 │   ├── rofi/
 │   ├── foot/
